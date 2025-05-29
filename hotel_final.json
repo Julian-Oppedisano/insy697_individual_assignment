@@ -1,0 +1,14 @@
+{
+    "forecast_period": "June 2, 2025 - June 6, 2025",
+    "mean_predicted_rating": 4.22,
+    "std_dev_predicted_rating": 0.2,
+    "individual_valid_forecasts": [
+        4.0,
+        4.4,
+        4.0,
+        4.5,
+        4.2
+    ],
+    "number_of_valid_forecasts": 5,
+    "notes": "Aggregated from 5 forecasts after removing one outlier. Check hotel_preds_raw.json for details."
+}

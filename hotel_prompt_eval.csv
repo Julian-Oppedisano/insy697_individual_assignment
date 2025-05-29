@@ -1,0 +1,4 @@
+prompt_name,prompt_file,backtest_target_period,ground_truth_rating,llm_forecast,mae
+base,hotel_prompt_base.txt,2025-05-07,5.0,4.1,0.9000000000000004
+cot,hotel_prompt_cot.txt,2025-05-07,5.0,4.2,0.7999999999999998
+scenario,hotel_prompt_scenario.txt,2025-05-07,5.0,4.1,0.9000000000000004

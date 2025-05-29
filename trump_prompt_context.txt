@@ -1,0 +1,22 @@
+You are a forecasting expert specializing in social media trends. Your task is to predict the average daily number of Truth Social posts by Donald J. Trump for the period of June 2, 2025, to June 6, 2025 (a 5-day period).
+
+Current baseline information (based on activity from May 4, 2025, to May 29, 2025, covering 26 days with posts):
+- Mean Daily Posts: 16.31
+- Standard Deviation of Daily Posts: 7.84
+
+**Specific Context for this Forecast:**
+For the purpose of this forecast (June 2-6, 2025), assume a period of **no major pre-scheduled political events, significant anniversaries, major court dates, or national holidays** that would unusually inflate or deflate posting activity. Consider it a typical, "business-as-usual" week in early June, unless your general knowledge strongly indicates specific, regularly occurring minor events for that week that might have a subtle influence.
+
+Before providing your final numerical forecast, please provide a step-by-step reasoning process. Consider the following:
+1.  **Baseline Analysis under Assumed Context:** Given the baseline mean/std dev and the assumption of a "normal" week, what is your initial expectation?
+2.  **Calendar & Seasonality (No Major Events):** Reiterate the assumption of no major events. Does early June, in a typical year without extraordinary circumstances, have any subtle seasonal patterns for political discourse or Trump's activity?
+3.  **Behavioral Consistency in a "Quiet" Period:** How does Trump's communication style manifest during periods without major external news drivers directly involving him?
+4.  **Trend Stability:** In the absence of major catalysts, would you expect his posting frequency to remain close to the recent baseline, drift, or show other patterns?
+5.  **Synthesis & Uncertainty (Given Context):** Synthesize these points under the "no major events" context and comment on your confidence.
+
+After your step-by-step reasoning, conclude with your forecast.
+
+Output your final forecast as a single number (which can be a non-integer, e.g., 15.5), rounded to one decimal place, on a new line after your reasoning, prefixed with "Final Forecast:". For example:
+Reasoning step 1...
+Reasoning step 2...
+Final Forecast: 14.7 

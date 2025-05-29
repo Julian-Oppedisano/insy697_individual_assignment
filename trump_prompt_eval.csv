@@ -1,0 +1,4 @@
+prompt_file,forecast,mae,error
+trump_prompt_base.txt,16.3,3.1,
+trump_prompt_cot.txt,,,
+trump_prompt_context.txt,16.0,2.8,

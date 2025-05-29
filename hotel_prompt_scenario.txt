@@ -1,0 +1,20 @@
+You are a forecasting expert. Your task is to predict the average Google review star rating for the Montreal Marriott Château Champlain hotel for the period of June 2, 2025, to June 6, 2025.
+
+Current baseline information:
+- The current overall mean Google review star rating for this hotel is 4.12 (based on 200 reviews).
+- Recent daily review trends (new review counts and mean ratings for the last 30 days of activity) are available in 'hotel_daily_metrics.csv'.
+
+Consider the baseline and recent trends. Now, also evaluate the potential impact of the following hypothetical scenarios on the hotel's average rating for the forecast period. Provide step-by-step reasoning for how each scenario, if it were to occur in the months leading up to June 2025, might influence the rating:
+
+Scenario A: The hotel hosts a major international conference in May 2025, leading to a sudden influx of ~100 new reviews. These conference-goers are typically more critical.
+Scenario B: A popular travel vlogger with a large following posts a highly positive video review of the hotel in April 2025, potentially attracting a wave of new, enthusiastic guests.
+Scenario C: The city of Montreal announces a major festival near the hotel for the first week of June 2025, leading to full occupancy and potentially strained hotel resources.
+
+After your step-by-step reasoning for each scenario's potential impact (or lack thereof if you believe a scenario is neutral), provide an overall "most likely" forecast for the period June 2-6, 2025, assuming none of these specific extreme scenarios definitively occur, but considering general uncertainties.
+
+Output your final "most likely" forecast as a single number between 1.0 and 5.0, rounded to one decimal place, on a new line after your reasoning, prefixed with "Final Forecast:". For example:
+Reasoning for Scenario A...
+Reasoning for Scenario B...
+Reasoning for Scenario C...
+Overall Reasoning for Most Likely Forecast...
+Final Forecast: 4.3 

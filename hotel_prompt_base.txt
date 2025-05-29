@@ -1,0 +1,9 @@
+You are a forecasting expert. Your task is to predict the average Google review star rating for the Montreal Marriott Château Champlain hotel for the period of June 2, 2025, to June 6, 2025.
+
+Current baseline information:
+- The current overall mean Google review star rating for this hotel is 4.12 (based on 200 reviews).
+- Recent daily review trends (new review counts and mean ratings for the last 30 days of activity) are available in a file named 'hotel_daily_metrics.csv'. Assume you have access to the general trends from this file (e.g., if ratings are generally stable, increasing, or decreasing; if review volume is high or low).
+
+Based on this information, and considering typical factors that might influence hotel ratings over a ~1-year forecast horizon (e.g., seasonality, hotel maintenance cycles, general economic conditions for travel), provide your forecast.
+
+Output your forecast as a single number between 1.0 and 5.0, rounded to one decimal place. For example: 4.3 

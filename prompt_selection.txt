@@ -1,0 +1,10 @@
+Selected Hotel Prompt (T34):
+Key: cot
+File: hotel_prompt_cot.txt
+Backtest MAE (gpt-3.5-turbo on 2025-05-07): 0.80 
+
+Selected Trump Post Prompt (T44):
+Key: context
+File: trump_prompt_context.txt
+Backtest MAE (gpt-3.5-turbo on 2025-05-18 to 2025-05-22): 2.8
+Note: trump_prompt_cot.txt failed to produce a parsable forecast during backtesting (MAE N/A). trump_prompt_base.txt MAE was 3.1. 

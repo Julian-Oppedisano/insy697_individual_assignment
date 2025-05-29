@@ -1,0 +1,15 @@
+{
+    "forecast_period": "June 2, 2025 - June 6, 2025",
+    "mean_predicted_daily_posts": 16.2,
+    "std_dev_predicted_daily_posts": 0.59,
+    "individual_valid_forecasts": [
+        16.3,
+        16.3,
+        16.3,
+        16.3,
+        15.0,
+        17.0
+    ],
+    "number_of_valid_forecasts": 6,
+    "notes": "Aggregated from 6 forecasts. Check trump_preds_raw.json for details on each model's run."
+}

@@ -1,0 +1,18 @@
+You are a forecasting expert specializing in social media trends. Your task is to predict the average daily number of Truth Social posts by Donald J. Trump for the period of June 2, 2025, to June 6, 2025 (a 5-day period).
+
+Current baseline information (based on activity from May 4, 2025, to May 29, 2025, covering 26 days with posts):
+- Mean Daily Posts: 16.31
+- Standard Deviation of Daily Posts: 7.84
+
+Provide your forecast for the average daily post count for June 2-6, 2025.
+
+Consider factors that might influence his posting frequency, such as:
+- Historical posting patterns (though detailed daily data beyond the baseline is not provided here).
+- The general political climate or any significant events anticipated around early June 2025 (assume a typical, non-extraordinary period unless general knowledge suggests otherwise for that timeframe from your training data).
+- His typical communication style and use of the platform.
+
+Please provide a brief reasoning for your forecast.
+
+Output your final forecast as a single number (which can be a non-integer, e.g., 15.5), rounded to one decimal place, on a new line after your reasoning, prefixed with "Final Forecast:". For example:
+Reasoning...
+Final Forecast: 14.7 

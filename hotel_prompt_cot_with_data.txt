@@ -1,0 +1,33 @@
+You are a forecasting expert. Your task is to predict the average Google review star rating for the Montreal Marriott Château Champlain hotel for the period of June 2, 2025, to June 6, 2025.
+
+Current baseline information:
+- The current overall mean Google review star rating for this hotel is 4.12 (based on 200 reviews).
+
+Recent daily review trends for the last 30 days of observed activity (April 10, 2025 - May 09, 2025) are as follows:
+- April 10-18: No new reviews.
+- April 19: 25 new reviews, mean rating 5.0.
+- April 20: No new reviews.
+- April 21: 25 new reviews, mean rating 5.0.
+- April 22-May 1: No new reviews for most days.
+- May 02: 25 new reviews, mean rating 4.0.
+- May 03: 25 new reviews, mean rating 1.0 (Note: this is a significant dip).
+- May 04-06: No new reviews.
+- May 07: 25 new reviews, mean rating 5.0.
+- May 08: No new reviews.
+- May 09: 25 new reviews, mean rating 5.0.
+- On days with no new reviews, the daily mean rating is 0.0 and count is 0.
+- Consider the general trends from this data (e.g., if ratings are generally stable, increasing, or decreasing; if review volume is high or low, and the impact of outlier days).
+
+Before providing your final numerical forecast, please provide a step-by-step reasoning process. Consider the following:
+1.  Current baseline rating and its stability/trend based on the recent daily metrics provided above.
+2.  Potential impact of seasonality (early June in Montreal).
+3.  Typical hotel operational factors over a 1-year horizon (e.g., renovations, staff changes - assume no specific news unless provided).
+4.  Broader economic or travel industry trends that might influence guest experiences or review scores by mid-2025.
+5.  Any other factors you deem relevant to this forecast.
+
+After your step-by-step reasoning, conclude with your forecast.
+
+Output your final forecast as a single number between 1.0 and 5.0, rounded to one decimal place, on a new line after your reasoning, prefixed with "Final Forecast:". For example:
+Reasoning step 1...
+Reasoning step 2...
+Final Forecast: 4.3 
