@@ -1,0 +1,4 @@
+Mean Daily Posts (last 30 days of activity, or all available if less): 16.31
+Std Dev Daily Posts (last 30 days of activity, or all available if less): 7.84
+Data Period Used for Stats: 2025-05-04 to 2025-05-29
+Number of Days with Posts in Period: 26
